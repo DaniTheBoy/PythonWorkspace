@@ -1,4 +1,7 @@
 # PythonWorkspace
 
 ## Instructions of Use:
-Holi
+Holi Chavos
+
+## Language
+Python
