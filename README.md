@@ -14,3 +14,7 @@ Holi Chavos
 
 ## Team Members
 - Dani The Boy
+
+
+## Team Management
+- No hay manager banda
