@@ -1,6 +1,7 @@
 from mathy import add
 from person import Person
 
+#Names
 name_one = 'Daniboy'
 name_two = 'ElDaniboy'
 
