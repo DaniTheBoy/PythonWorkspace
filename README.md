@@ -21,3 +21,6 @@ Holi Chavos
 
 ## Team Management
 - No hay manager banda
+
+## Company
+- No Company
