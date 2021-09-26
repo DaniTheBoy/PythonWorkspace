@@ -18,6 +18,7 @@ Holi Chavos
 - Dani The Girl
 - Mephis The Cat
 - Morgana The Pig
+- Nib The Legend
 - Mariela The Girl
 ## Team Management
 - No hay manager banda
