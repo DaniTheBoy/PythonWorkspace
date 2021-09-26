@@ -17,7 +17,7 @@ Holi Chavos
 - Dani The Boy
 - Dani The Girl
 - Mephis The Cat
-
+- Morgana The Pig
 
 ## Team Management
 - No hay manager banda
