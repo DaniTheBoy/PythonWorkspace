@@ -9,12 +9,14 @@ Holi Chavos
 - Markdown
 
 ## More stuff
-- More stuff
+- More Stuff
+- More Stuff
 - More Stuff
 
 ## Team Members
 - Dani The Boy
 - Dani The Girl
+- Mephis The Cat
 
 
 ## Team Management
