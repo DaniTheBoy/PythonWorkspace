@@ -24,4 +24,4 @@ Holi Prres
 - No hay manager banda
 
 ## Company
-- No Company
+- HCL Technologies
