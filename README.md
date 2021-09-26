@@ -14,3 +14,4 @@ Holi Chavos
 
 ## Team Members
 - Dani The Boy
+- Dani The Girl
